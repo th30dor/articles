@@ -16,4 +16,4 @@ This is how the end result should look like:
 ## 1. First we create our own custom commands
 
 We do that by using the `External Tools` tab from the `Tools` menu:
-
+![External tools](images/image2.png)
