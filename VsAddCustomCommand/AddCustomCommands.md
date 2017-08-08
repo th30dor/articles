@@ -29,3 +29,9 @@ Give the command an easily recognizable title. The `Command` field must be `expl
 
 ## 2. Add the command to the menu
 
+Once we created our own command, we just need to add it to the appropriate menu. For this specific scenario, we will add it as part of the Project contextual menu, but this can be changed as per the user's needs. 
+
+Open the `Tools > Customize` menu. Switch to the `Commands` tab, and `Add Command` to add the command we previously created. You will be shown a dialogue that lets you select it:
+
+
+
