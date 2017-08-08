@@ -4,6 +4,6 @@ For some projects the build output, and the project output are not always obviou
 
 This is how the end result should look like:
 
-![End result](/images/image1.png)
+![End result](images/image1.png)
 
 ## 1. First we create 
