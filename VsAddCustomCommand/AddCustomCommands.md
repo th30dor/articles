@@ -42,3 +42,8 @@ Click `Add Command` to add the command we previously created. You will be shown 
 And here the order of the external commands is important. As previously shown, `Open Target Folder`corresponds to `External Command 1`. So we select `Tools` and `External Command 1`. Use `Move Up` and `Move Down` to get the command in the right place. 
 
 
+The same can be done for `Binary Directory` or any other command you might wish to add to your UI. 
+
+VS arguments references:
+[Managing External Tools](https://msdn.microsoft.com/en-us/library/76712d27.aspx) 
+[Common Macros for Build Commands and Properties](https://msdn.microsoft.com/da-dk/library/c02as0cs.aspx) 
