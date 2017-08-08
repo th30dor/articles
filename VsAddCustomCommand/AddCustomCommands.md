@@ -15,5 +15,9 @@ This is how the end result should look like:
 
 ## 1. First we create our own custom commands
 
-We do that by using the `External Tools` tab from the `Tools` menu:
+I'll show how one can add one command, `TargetDir`, and the rest can easily be created by changing the `Command` and `Arguments` parameters. 
+
+We first open the `External Tools` tab from the `Tools` menu:
 ![External tools](images/image2.png)
+
+Fill in the fields. Give the command an easily recognizable title. The `Command` field must be `explorer.exe` and the `Arguments` must be ` "$(TargetDir)"`. 
