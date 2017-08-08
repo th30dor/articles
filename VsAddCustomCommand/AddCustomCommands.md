@@ -25,4 +25,4 @@ Fill in the fields.
 
 ![Add External tool](images/image3.png)
 
-Give the command an easily recognizable title. The `Command` field must be `explorer.exe` and the `Arguments` must be ` "$(TargetDir)"`. 
+Give the command an easily recognizable title. The `Command` field must be `explorer.exe` and the `Arguments` must be ` "$(TargetDir)"`. Take special note of the order of the external commands you added. `Open Target Folder` is first in the list. This means it corresponds to `ExternalTool1`. By the same logic, `Open bin Folder` corresponds to `ExternalTool2`. 
