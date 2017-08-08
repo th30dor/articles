@@ -46,4 +46,5 @@ The same can be done for `Binary Directory` or any other command you might wish 
 
 VS arguments references:
 [Managing External Tools](https://msdn.microsoft.com/en-us/library/76712d27.aspx) 
+
 [Common Macros for Build Commands and Properties](https://msdn.microsoft.com/da-dk/library/c02as0cs.aspx) 
